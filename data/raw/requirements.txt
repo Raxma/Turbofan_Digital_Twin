@@ -1,0 +1,9 @@
+Core Packages: 
+1. Pandas 
+2. Scikit-learn
+3. Xgboost
+4. lightbm
+5. torch 
+6. SHAP
+7. mlflow
+8. Streamlit
