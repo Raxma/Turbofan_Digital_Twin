@@ -1,0 +1,3 @@
+## Dataset Source
+
+This project uses the **NASA Prognostics Center of Excellence (PCoE) C-MAPSS turbofan engine degradation dataset**. Specifically, the current implementation uses the **FD001 subset**, which contains simulated run-to-failure data for turbofan engines under one operating condition and one fault mode. The dataset is used to build a predictive-maintenance pipeline for Remaining Useful Life (RUL) estimation, sensor-data analysis, explainable AI, and maintenance decision support.
